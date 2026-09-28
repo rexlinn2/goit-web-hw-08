@@ -1,0 +1,14 @@
+[
+  {
+    "fullname": "Albert Einstein",
+    "born_date": "March 14, 1879",
+    "born_location": "in Ulm, Germany",
+    "description": "In 1879, Albert Einstein was born in Ulm, Germany. He completed his Ph.D. at the University of Zurich by 1909. His 1905 paper explaining the photoelectric effect, the basis of electronics, earned him the Nobel Prize in 1921."
+  },
+  {
+    "fullname": "Steve Martin",
+    "born_date": "August 14, 1945",
+    "born_location": "in Waco, Texas, The United States",
+    "description": "Stephen Glenn Steve Martin is an American actor, comedian, writer, playwright, producer, musician, and composer."
+  }
+]
